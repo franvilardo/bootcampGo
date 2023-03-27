@@ -6,13 +6,13 @@ Teniendo en cuenta que si la persona gana más de $50.000 se le descontará un 1
 
 */
 
-package main
+package salario
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	fmt.Println(calcularSalario(160000))
-}
+// func main() {
+// 	fmt.Println(calcularSalario(160000))
+// }
 
 func calcularSalario(sueldo float64) float64 {
 	var respuesta float64
