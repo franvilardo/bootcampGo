@@ -39,6 +39,7 @@ func validate(salary int)error {
 
 func main () {
 	var salary int = 8000
+	myErr := myErr.Error("")
 	if condition {
 		
 	}
